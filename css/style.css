@@ -1,0 +1,83 @@
+body{
+    background-image: url(/assets/images/loadingscreen.jpg);
+    background-repeat: repeat;
+}
+
+.title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "Calibri", system-ui;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-decoration-line: underline;
+}
+
+.game{
+    text-align: center;
+    display: inline;
+    margin-left: 310px;
+    margin-top: 20px;
+    font-family: "DynaPuff";
+    font-size: 50px;
+    color: rgb(38, 35, 218);
+    text-shadow: 3px 3px rgb(231, 241, 250);
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    background-color: rgb(125, 159, 250);
+    border-radius: 10px;
+    border: 5px dashed #244cff;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border: 10px solid;
+    border-color: rgb(231, 241, 250);
+    border-radius: 25px;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(156, 202, 253);
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px outset rgb(175, 194, 255);
+    border-radius: 10px;
+}
+
+ul{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+a{
+    color: rgb(24, 106, 214);
+}
+
+.fav{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(63, 147, 243);
+    border-radius: 25px;
+    border: 5px outset rgb(38, 35, 218);
+    margin-top: 20px;
+    padding: 2px;
+    padding-left: 2px;
+    padding-bottom: 12px;
+    margin-bottom: 40px
+}
+
+span{
+    color:rgb(168, 76, 0);
+    font-weight: 800;
+}
