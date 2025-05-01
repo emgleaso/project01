@@ -34,7 +34,7 @@ body {
     text-shadow: 3px 3px rgb(231, 241, 250);
     padding: 15px;
     background-color: rgb(125, 159, 250);
-    border-radius: 10px;
+    border-radius: 20px;
     border: 5px dashed #244cff;
     margin: auto;
 }
